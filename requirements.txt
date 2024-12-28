@@ -1,0 +1,8 @@
+imageio
+matplotlib
+numpy
+pyvirtualdisplay
+reverb
+IPython
+tensorflow
+tf-agents
