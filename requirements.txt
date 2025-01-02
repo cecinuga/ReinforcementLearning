@@ -3,6 +3,6 @@ matplotlib
 numpy
 pyvirtualdisplay
 reverb
-IPython
-tensorflow
-tf-agents
+ipython
+tf-keras
+tf-agents[reverb]
